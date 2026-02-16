@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 
 import matplotlib.pyplot as plt
 
-print("script is running")
-
 X, y = load_mnist()
 
 X = X[:20000]
